@@ -1,0 +1,1 @@
+stocks = ['AMZN','AMD','AAPL']
